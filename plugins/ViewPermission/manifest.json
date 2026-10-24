@@ -1,13 +1,11 @@
+{
   "name": "PermissionsViewer",
   "description": "View server roles and permissions from the message context menu.",
   "authors": [
     {
-      "name": "Zeisu",
-      "id": "0"
+      "name": "zeisu"
     }
   ],
   "main": "index.js",
-  "vendetta": {
-    "icon": "ic_badge_staff"
-  }
+  "hash": "e3dc636c4c3f3535"
 }
